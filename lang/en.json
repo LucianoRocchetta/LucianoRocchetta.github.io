@@ -1,0 +1,37 @@
+{
+    "menu": {
+        "title-span": "Portfolio",
+        "about": "<span>01. </span>About Me",
+        "skills": "<span>02. </span>Skills",
+        "projects": "<span>03. </span>Projects",
+        "contact": "<span>04. </span>Contact"
+    },
+    "banner": {
+        "greeting": "Hello 🖐, I am",
+        "banner-button": "Let's Work >"
+    },
+    "aboutMe": {
+        "aboutMe-title": "<span>01. </span>About Me",
+        "aboutMe-description": "I am a 19 year-old argentinian frontend developer and Engineering student looking for jobs which promote professional growth.",
+        "aboutMe-button": "Download CV",
+        "school-text": "Programmer Technician",
+        "college-text": "Systems Engineering (UTN)"
+    },
+    "skills": {
+        "responsible": "I consider myself a responsible person who likes challenges and wants optimal results in the objetives.",
+        "autodidact": "I have always been an autodidact. I am keen on learning about new technologies, as well as development tools and programming techniques.",
+        "creative": "I am a creative person who likes to contribute in new ideas or solutions.",
+        "team": "I love to share my knowledge with others as well as learning from them."
+    },
+    "projects": {
+        "projects-title": "<span>03. </span>My Projects",
+
+        "description-p1": "Project designed for bootstrap learning. An user-friendly bike shop with responsive design.",
+        "description-p2": "This is a Silo System, which consists of a panel that controls temperature, gas and humidity. It counts with a login system.",
+        "description-p3": "Would you like to know how the phenomenal Leonardo Da Vinci wrote? Check it out!. I recommend you to read the documentation first.",
+        "projects-button": "See More >"
+    },
+    "contact": {
+        "contact-title": "<span>04. </span>Contact"
+    }
+}

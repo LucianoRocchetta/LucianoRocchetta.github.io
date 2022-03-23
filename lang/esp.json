@@ -1,0 +1,37 @@
+{
+    "menu": {
+        "title-span": "Portafolio",
+        "about": "<span>01. </span>Acerca de Mi",
+        "skills": "<span>02. </span>Habilidades",
+        "projects": "<span>03. </span>Proyectos",
+        "contact": "<span>04. </span>Contacto"
+    },
+    "banner": {
+        "greeting": "Hola 🖐, yo soy",
+        "banner-button": "Trabajemos >"
+    },
+    "aboutMe": {
+        "aboutMe-title": "<span>01. </span>Acerca de Mi",
+        "aboutMe-description": "Tengo 19 años, soy un Frontend Developer Argentino en busca de un trabajo que me permita adquirir nuevas experiencias y mejorar mis conocimientos",
+        "aboutMe-button": "Descargar CV",
+        "school-text": "Técnico Programador",
+        "college-text": "Ingeniería en Sistemas (UTN)"
+    },
+    "skills": {
+        "responsible": "Me considero una persona responsable a la cual le gustan los desafíos y busca óptimos resultados en los objetivos.",
+        "autodidact": "Siempre he sido autodidacta. Disfruto el aprender sobre nuevas tecnologías, como también herramientas de desarrollo y técnicas de programación.",
+        "creative": "Soy una persona creativa encantada de poder contribuir en nuevas ideas o soluciones.",
+        "team": "Adoro compartir mi conocimiento con otros como también aprender de los demas."
+    },
+    "projects": {
+        "projects-title": "<span>03. </span>Mis Proyectos",
+
+        "description-p1": "Proyecto diseñado con la finalidad de adquirir conocimientos utilizando Bootstrap. Una fabulosa tienda de bicicletas con diseño responsivo.",
+        "description-p2": "Un sistema de silo, el cual consiste de un panel que controla temperatura, gas y humedad. También cuenta con un sistema de login.",
+        "description-p3": "Te gustaría saber como el fenómeno de Leonardo Da Vinci escribía? Chequealo por tu cuenta!. Te recomiendo leer la documentación para su uso primeramente.",
+        "projects-button": "Ver más >"
+    },
+    "contact": {
+        "contact-title": "<span>04. </span>Contacto"
+    }
+}
