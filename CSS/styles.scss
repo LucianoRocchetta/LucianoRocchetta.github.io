@@ -653,6 +653,13 @@ body::-webkit-scrollbar-thumb {
     #projects #projects-container .projects-box button {
         width: 100%;
     }
+    #projects #projects-container .projects-box {
+        transform: translate(0) !important;
+        opacity: (1) !important;
+    }
+    #skills #hard-skills {
+        margin-top: 5%;
+    }
 }
 
 
@@ -753,6 +760,8 @@ body::-webkit-scrollbar-thumb {
     #projects #projects-container .projects-box {
         flex-direction: column;
         width: 100%;
+        transform: translate(0) !important;
+        opacity: (1) !important;
     }
     #projects #projects-container .projects-box .info-container h2{
         text-align: center;
